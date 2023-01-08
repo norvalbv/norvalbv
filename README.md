@@ -6,15 +6,36 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norvalbv&show_icons=true&locale=en" alt="norvalbv" /></p>
 
-<p>I specialise in the PERN stack but soon to extend my learning into MongoDB.</p>
+<b>My Tech Stack</b>
+<ul>
+  <li><b>Front End</b>
+  <ul>
+    <li>React, Redux</li>
+    <li>Visx & D3</li>
+    <li>JavaScript & Typescript</li>
+    <li>TailWindCSS, SASS / SCSS</li>
+    <li>Cypress, Jest, Enzyme, React-testing library</li>
+  </ul>
+  <li><b>Back End</b>
+  <ul>
+    <li>Node JS</li>
+    <li>Express</li>
+  </ul>
+  <li><b>DevOps and Misc</b>
+  <ul>
+    <li>CI / CD</li>
+    <li>AWS</li>
+    <li>Git / Bash</li>
+    <li>GitHub, Azure DevOps</li>
+  </ul>
+</ul>
+
 <p>I am always open to learn new skills...</p>
 - 🌱 I’m currently practicing **Backend.**
 
-- 👯 I’m looking to collaborate on [Know Your Code](https://github.com/norvalbv/know-your-code)
+- 👨‍💻 View my portfolio... (now extremely outdated - I am planning on updating this shortly). [https://benjaminnorval.netlify.app/](https://benjaminnorval.netlify.app/)
 
-- 👨‍💻 View my portfolio... [https://benjaminnorval.netlify.app/](https://benjaminnorval.netlify.app/)
-
-- 🌱 I am soon to start learning **MongoDB, Jest, TypeScript.**
+- 🌱 I am soon to start learning **Vite, Webpack, Next.JS.**
 
 - 📫 Reach me at **benjinorval@gmail.com**
 
