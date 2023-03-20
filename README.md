@@ -14,7 +14,17 @@
     <li>Visx & D3</li>
     <li>JavaScript & Typescript</li>
     <li>TailWindCSS, SASS / SCSS</li>
-    <li>Cypress, Jest, Enzyme, React-testing library</li>
+  </ul>
+  <li><b>Testing</b>
+  <ul>
+    <li>Cypress</li>
+    <li>Jest</li>
+    <li>React-testing library</li>
+  </ul>
+  <li><b>Build tools and bundlers</b>
+  <ul>
+    <li>Vite</li>
+    <li>CRA (Create-React-App)</li>
   </ul>
   <li><b>Back End</b>
   <ul>
@@ -31,11 +41,11 @@
 </ul>
 
 <p>I am always open to learn new skills...</p>
-- 🌱 I’m currently practicing **Backend.**
+- 🌱 I’m currently practicing **AWS Servleress.**
 
 - 👨‍💻 View my portfolio... (now extremely outdated - I am planning on updating this shortly). [https://benjaminnorval.netlify.app/](https://benjaminnorval.netlify.app/)
 
-- 🌱 I am soon to start learning **Vite, Webpack, Next.JS.**
+- 🌱 I am soon to start learning **Webpack, Next.JS.**
 
 - 📫 Reach me at **benjinorval@gmail.com**
 
