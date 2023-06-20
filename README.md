@@ -45,7 +45,7 @@
 
 - 👨‍💻 View my portfolio... (now extremely outdated - I am planning on updating this shortly). [https://benjaminnorval.netlify.app/](https://benjaminnorval.netlify.app/)
 
-- 🌱 I am soon to start learning **Webpack, Next.JS.**
+- 🌱 I am soon to start learning **GraphQL, Next.JS.**
 
 - 📫 Reach me at **benjinorval@gmail.com**
 
