@@ -43,7 +43,7 @@
 <p>I am always open to learn new skills...</p>
 - 🌱 I’m currently practicing **AWS Servleress.**
 
-- 👨‍💻 View my portfolio... (now extremely outdated - I am planning on updating this shortly). [https://benjaminnorval.netlify.app/](https://benjaminnorval.netlify.app/)
+- 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
 
 - 🌱 I am soon to start learning **GraphQL, Next.JS.**
 
