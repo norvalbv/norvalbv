@@ -23,6 +23,7 @@
   </ul>
   <li><b>Back End</b>
   <ul>
+    <li>Python</li>
     <li>Node JS</li>
     <li>Express</li>
   </ul>
@@ -37,7 +38,7 @@
 </ul>
 
 <p>I am always open to learn new skills...</p>
-- 🌱 I’m currently practicing **Accessibility and AWS Servleress.**
+- 🌱 I’m currently practicing **Python and AWS Servleress.**
 
 - 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
 
