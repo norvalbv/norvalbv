@@ -38,7 +38,7 @@
 </ul>
 
 <p>I am always open to learn new skills...</p>
-- 🌱 I’m currently practicing **Python and AWS Servleress.**
+- 🌱 I’m currently practicing **Python**
 
 - 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
 
