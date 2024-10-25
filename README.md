@@ -38,11 +38,11 @@
 </ul>
 
 <p>I am always open to learn new skills...</p>
-- 🌱 I’m currently practicing **Python**
+- 🌱 I’m currently practicing **Python** and **Next.JS**
 
 - 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
 
-- 🌱 I am soon to start learning **GraphQL, Next.JS.**
+- 🌱 I am soon to start learning **React Native.**
 
 - 📫 Reach me at **benjinorval@gmail.com**
 
