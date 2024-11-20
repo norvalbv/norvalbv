@@ -1,48 +1,47 @@
 <h1 align="center">Hi there👋, I'm Benjamin</h1>
 <h3 align="center">A Full Stack Developer from Wales, United Kingdom.</h3>
 
-<b>My Tech Stack</b>
-<ul>
-  <li><b>Front End</b>
-  <ul>
-    <li>React, Redux</li>
-    <li>Visx & D3</li>
-    <li>JavaScript & Typescript</li>
-    <li>TailWindCSS, SASS / SCSS</li>
-  </ul>
-  <li><b>Testing</b>
-  <ul>
-    <li>Cypress</li>
-    <li>Jest</li>
-    <li>React-testing library</li>
-  </ul>
-  <li><b>Build tools and bundlers</b>
-  <ul>
-    <li>Vite</li>
-    <li>CRA (Create-React-App)</li>
-  </ul>
-  <li><b>Back End</b>
-  <ul>
-    <li>Python</li>
-    <li>Node JS</li>
-    <li>Express</li>
-  </ul>
-  <li><b>DevOps and Misc</b>
-  <ul>
-    <li>CI / CD</li>
-    <li>AWS</li>
-    <li>Git</li>
-    <li>Bash</li>
-    <li>GitHub, Azure DevOps</li>
-  </ul>
-</ul>
+# My Tech Stack
 
-<p>I am always open to learn new skills...</p>
-- 🌱 I’m currently practicing **Python** and **Next.JS**
+## Languages
+- HTML & CSS (obviously 🙄)
+- JavaScript
+- TypeScript
+- Python
+- Bash
+
+## Runtimes, Frameworks, and Libraries
+- **Front-End**
+  - React, Redux, Next.js
+  - Visx & D3
+  - TailwindCSS, SASS / SCSS
+    - and many more...
+- **Back-End**
+  - Node.js
+  - Express
+  - FastAPI
+  - Pydantic
+- **Testing**
+  - Cypress
+  - Playwright
+  - Jest
+  - React Testing Library
+- **Build Tools**
+  - Vite
+  - CRA (Create-React-App)
+
+## DevOps and Miscellaneous
+- CI/CD (Azure DevOps)
+- AWS
+- Git
+
+I am always open to learning new skills...
+- 🌱 I’m currently practicing **Python**, **React Native**, and **Next.JS**
 
 - 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
+- 👨‍💻 View my recent project [arianapp.com](https://arianapp.com)
 
-- 🌱 I am soon to start learning **React Native.**
+- 🌱 I am soon to start learning **GraphQL.**
 
 - 📫 Reach me at **benjinorval@gmail.com**
 
