@@ -36,7 +36,7 @@
 - Git
 
 I am always open to learning new skills...
-- 🌱 I’m currently practicing **Python**, **React Native**, and **Next.JS**
+- 🌱 I’m currently practicing **Python**, **React Native**, **AI**, and **Next.JS**
 
 - 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
 - 👨‍💻 View my recent project [arianapp.com](https://arianapp.com)
