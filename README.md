@@ -39,7 +39,9 @@ I am always open to learning new skills...
 - 🌱 I’m currently practicing **Python**, **React Native**, **AI**, and **Next.JS**
 
 - 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
-- 👨‍💻 View my recent project [arianapp.com](https://arianapp.com)
+- 👨‍💻 View my recent projects:
+  -  [arianapp.com](https://arianapp.com)
+  -  [resylo.com](https://resylo.com)
 
 - 🌱 I am soon to start learning **GraphQL.**
 
