@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Benjamin</h1>
+<h1 align="center">Hi there👋, I'm Benji</h1>
 <h3 align="center">A Full Stack Developer from Wales, United Kingdom.</h3>
 
 # My Tech Stack
@@ -38,15 +38,9 @@
 I am always open to learning new skills...
 - 🌱 I’m currently practicing **Python**, **React Native**, **AI**, and **Next.JS**
 
-- 👨‍💻 View my portfolio [benjaminnorval.com](https://benjaminnorval.com)
 - 👨‍💻 View my recent projects:
-  -  [arianapp.com](https://arianapp.com)
+  -  [Lily AI](https://github.com/norvalbv/lily)
   -  [resylo.com](https://resylo.com)
-
-- 🌱 I am soon to start learning **GraphQL.**
-
-- 📫 Reach me at **benjinorval@gmail.com**
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norvalbv&label=Profile%20views&color=0e75b6&style=flat" alt="norvalbv" /> </p>
 
